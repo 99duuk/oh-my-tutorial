@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.verification/
+.tmp/
+test-results/
+playwright-report/
+__pycache__/
+*.pyc
+.env
+.env.*
